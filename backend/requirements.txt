@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langgraph
+langchain-core
+langchain-together
+mysql-connector-python
+python-dotenv
+pydantic
+PyJWT
+bcrypt
