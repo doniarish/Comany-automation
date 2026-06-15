@@ -25,6 +25,7 @@ def login(req: LoginRequest):
     
     return {
         "accessToken": token,
+        
         "id": user["emp_id"],
         "username": username,
         "role": role
